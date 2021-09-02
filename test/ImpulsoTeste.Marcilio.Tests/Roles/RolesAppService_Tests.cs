@@ -34,7 +34,7 @@ namespace ImpulsoTeste.Marcilio.Tests.Roles
         /// <summary>
         /// Desafio tecnico 
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Teste feito</returns>
         [Fact]
         public async Task GetRoles_Test()
         {
